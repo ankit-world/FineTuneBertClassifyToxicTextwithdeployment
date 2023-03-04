@@ -16,3 +16,8 @@
 2. Install requirememnts using pip install -r requirements.txt
 3. Run app using command streamlit run app.py
 ```
+## Toxic Text
+<img width="677" alt="toxic text" src="https://user-images.githubusercontent.com/88729680/222881781-31342c9e-e83e-415a-989a-116bac9068e3.png">
+
+## Non Toxic Text
+<img width="686" alt="non_toxic_text" src="https://user-images.githubusercontent.com/88729680/222881800-929e8b17-5281-4a17-8b4b-e3d0cfdfa18b.png">
